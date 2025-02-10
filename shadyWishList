@@ -1,5 +1,13 @@
 title:Shadies List
 
+// Boondoggle Mk. 55 - Boondoggle PVP (god-pvp,controller)
+//notes: MW: Range / Stability tags:god-pvp,controller
+dimwishlist:item=32287609&perks=1482024992,1885400500,1195158366,3673922083
+dimwishlist:item=32287609&perks=1482024992,1885400500,1195158366,2889515627
+dimwishlist:item=32287609&perks=1482024992,1885400500,838873202,3673922083
+dimwishlist:item=32287609&perks=1482024992,1885400500,838873202,2889515627
+
+
 // The Guiding Sight - The Guiding Sight PVP (pvp,controller)
 //notes: MW: Stability tags:pvp,controller
 dimwishlist:item=417100299&perks=839105230,3230963543,588594999,2422968039
